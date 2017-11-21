@@ -1,0 +1,17 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+/.idea
+/.vagrant
+Homestead.json
+Homestead.yaml
+npm-debug.log
+.env
+.phpstorm.meta.php
+/app/REST/Documentations/root-object.php
+/storage/api-docs
+public/adminer.php
+_ide_helper_models.php
+_ide_helper.php
